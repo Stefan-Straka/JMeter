@@ -1,9 +1,8 @@
 
 
 # JMeter
-Project contains some REST API, SOAP API and recording of online shop purchase process.
+Project contains REST, SOAP APIs with assertions and recording of online shop purchase process.
 
-Project contains some REST API, SOAP API and recording of online shop purchase process.
 
  
 
@@ -39,15 +38,20 @@ Project contains some REST API, SOAP API and recording of online shop purchase p
 - Recording   
 
 ## ⚙️ Installation
-
+Download JMeter and install it on your system.  
+[JMeter download link](https://jmeter.apache.org/download_jmeter.cgi)
     
 ## 📝 Usage
+Select thread group and click on green play button.  
+You can see results in View Results Tree.
 
 
 
 ## 📚 Documentation
 
-[Requests used in the project](https://reqres.in/)
+[Requests used in the project](https://reqres.in/)  
+[Calculator](http://dneonline.com//calculator.asmx)
+
 ## 🗨️ Contact
 email: stefanstraka2424@gmail.com
 
